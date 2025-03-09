@@ -24,3 +24,7 @@
 - **High-Volatility Flags**: Identifies assets in the top 25% of volatility for monitoring.
 - **Projection**: Extrapolates future volatility for 12 months using the last historical value with random noise.
 - **Visualization**: Plots historical (solid red lines) and projected (dashed teal lines) volatility for each asset using Plotly.
+
+## Screenshots
+![output](output.png)
+
